@@ -1,0 +1,6 @@
+song1	song2	song3	song4	song5	song6	song7	song8	song9	song10	song11	song12	song13	song14	song15	song16	song17	song18	song19	song20	common
+Sorry	Formation	I Choose You	Cranes in the sky	Redbone	Imagination	Perfect	My shot	We belong together	Stoned and starving	Hate to say I told you so	I’m not Okay	Tighten Up	New slang	Stitches	In my blood	Alone	Rail Breaker	Wolves	Natural	0
+Sign of the times	Happy	Cry me a river	99 Problems	Crazy in love	Hate to say I told you so	I’m not Okay	Tighten Up	New slang	Stitches	HandClap	Shelter	Solo	I want you to know	Without you	PaperCut	Stay the night	Alone	Rail Breaker	Wolves	0
+Perfect	We belong together	1901	Rolling in the deep	Stitches	HandClap	Shelter	Solo	I want you to know	Without you	PaperCut	Alone	Wolves	Gold skies	Without me	This feeling	Lost in Japan	Because of you	Believer	Katharsis	0
+Happy	Cry me a river	99 Problems	Gold skies	Without me	This feeling	Lost in Japan	Tighten Up	New slang	Stitches	HandClap	Shelter	Solo	I want you to know	Rail Breaker	Wolves	Take me hand	How long	Chaperone	Closer	0
+Imagination	Sorry	Tighten Up	New slang	Stitches	HandClap	Gold skies	Without me	This feeling	Lost in Japan	We don’t talk anymore	Space	Shy girl	Done with Love	Don’t say	There for you	What lovers do	Something just like this	Thinking out loud	How you love me	0
